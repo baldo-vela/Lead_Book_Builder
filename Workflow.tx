@@ -1,0 +1,10 @@
+TO-DO:
+Build method to iterate over json data to create objects for each Place & assign the relevant data to instance variables
+
+Build a method that takes all Place objects and iterratively prints them to the CLI
+
+Build to select a single Place object and query for extra details
+
+Build PlacesQuery.DetailsQuery to query google maps api for additional information
+
+Display all relevant data from the details query

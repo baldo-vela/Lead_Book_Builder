@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require_relative "../lib/lead_book_builder"
+
+LeadBookBuilder::CLI.new.call
